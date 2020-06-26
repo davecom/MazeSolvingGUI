@@ -1,5 +1,5 @@
 # MazeSolvingGUI
-A simple tkinter GUI for illustrating DFS and BFS. For a well explained version of these algorithms checkout chapter 2 of [Classic Computer Science Problems in Python](https://github.com/davecom/ClassicComputerScienceProblemsInPython).
+A simple tkinter GUI for illustrating depth-first search (DFS) and breadth-first search (BFS). For a well explained version of these algorithms checkout chapter 2 of [Classic Computer Science Problems in Python](https://github.com/davecom/ClassicComputerScienceProblemsInPython).
 
 ## Running
 
